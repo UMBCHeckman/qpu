@@ -1,2 +1,5 @@
 defined shapes
 ultimate editions
+hitboxes
+high scores
+kickass music with drum samples
